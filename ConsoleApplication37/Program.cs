@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+ *  4 / 2 is 2
+ *  dev by zero
+ *  Outcome of 15 / 4is not even
+ *  32 / 4 is 8
+ *  dev by zero
+ *  Outcome of 127 / 8is not even
+ *  No matching element found
+ *  No matching element found
+ */
+
+using System;
 
 class Program
 {
@@ -27,6 +38,6 @@ class Program
 				Console.WriteLine(exc);
 			}
 		}
-		Console.ReadLine();
+		//Console.ReadLine();
 	}
 }
